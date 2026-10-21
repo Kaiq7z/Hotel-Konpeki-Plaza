@@ -1,0 +1,49 @@
+ENTRADA:
+Ana
+2678
+4
+Zero
+0
+1
+0
+0
+0
+Outra
+10
+1
+0
+0
+0
+N
+7
+
+SAÍDA:
+Bem-vindo ao Konpeki Plaza
+Nome do usuário: Senha: Bem-vindo ao Hotel Konpeki Plaza, Ana. É um imenso prazer ter você por aqui!
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: 
+[Ar-Condicionado]
+Empresa: Valor por aparelho: Quantidade de aparelhos: Desconto (%): Quantidade mínima para desconto: Deslocamento: O serviço de Zero custará R$ 0,00
+Informe pelo menos duas empresas para comparar.
+Empresa: Valor por aparelho: Quantidade de aparelhos: Desconto (%): Quantidade mínima para desconto: Deslocamento: O serviço de Outra custará R$ 10,00
+Deseja informar novos dados, Ana? (S/N): O orçamento de menor valor é o de Zero por R$ 0,00
+Maior orçamento: Outra por R$ 10,00
+Diferença percentual: não calculável, pois o menor orçamento é zero.
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: Muito obrigado e até logo, Ana.

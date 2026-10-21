@@ -1,0 +1,102 @@
+ENTRADA:
+Ana
+2678
+1
+200
+3
+Carla Souza
+E
+7
+S
+1
+100
+1
+Joao Silva
+S
+7
+8
+N
+6
+7
+
+SAÍDA:
+Bem-vindo ao Konpeki Plaza
+Nome do usuário: Senha: Bem-vindo ao Hotel Konpeki Plaza, Ana. É um imenso prazer ter você por aqui!
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: 
+[Reservas]
+Informe o valor da diária: Informe a quantidade de diárias (1-30): Informe o nome completo do hóspede: Tipo de quarto (S/E/L): Escolha um quarto (1-20): Resumo:
+Hóspede: Carla Souza
+Quarto: 7 (Executivo)
+Subtotal: R$ 810,00
+Taxa de serviço (10%): R$ 81,00
+Total: R$ 891,00
+Ana, confirma a reserva? (S/N): Reserva efetuada com sucesso.
+Mapa de quartos: L = livre | O = ocupado
+01:L  02:L  03:L  04:L  05:L  
+06:L  07:O  08:L  09:L  10:L  
+11:L  12:L  13:L  14:L  15:L  
+16:L  17:L  18:L  19:L  20:L  
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: 
+[Reservas]
+Informe o valor da diária: Informe a quantidade de diárias (1-30): Informe o nome completo do hóspede: Tipo de quarto (S/E/L): Escolha um quarto (1-20): Quarto já está ocupado
+Quartos livres: 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 17 18 19 20 
+Escolha um quarto (1-20): Resumo:
+Hóspede: Joao Silva
+Quarto: 8 (Standard)
+Subtotal: R$ 100,00
+Taxa de serviço (10%): R$ 10,00
+Total: R$ 110,00
+Ana, confirma a reserva? (S/N): Reserva não efetuada.
+Mapa de quartos: L = livre | O = ocupado
+01:L  02:L  03:L  04:L  05:L  
+06:L  07:O  08:L  09:L  10:L  
+11:L  12:L  13:L  14:L  15:L  
+16:L  17:L  18:L  19:L  20:L  
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: 
+[Relatórios Operacionais - Konpeki Plaza]
+-----------------------------------------------------------
+Reservas de quartos confirmadas        |                  1
+Taxa de ocupação atual                 |              5,00%
+Hóspedes cadastrados                   |                  0
+Eventos confirmados                    |                  0
+Receita de hospedagem                  |          R$ 891,00
+Receita de eventos                     |            R$ 0,00
+Receita total                          |          R$ 891,00
+-----------------------------------------------------------
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: Muito obrigado e até logo, Ana.

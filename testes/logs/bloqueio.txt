@@ -1,0 +1,12 @@
+ENTRADA:
+Ana
+1
+2
+3
+
+SAÍDA:
+Bem-vindo ao Konpeki Plaza
+Nome do usuário: Senha: Senha incorreta. Tentativa 1 de 3.
+Senha: Senha incorreta. Tentativa 2 de 3.
+Senha: Senha incorreta. Tentativa 3 de 3.
+Sistema bloqueado: limite de tentativas atingido.

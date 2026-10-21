@@ -1,0 +1,45 @@
+ENTRADA:
+Ana
+2678
+5
+4,20
+5,82
+4,35
+6,17
+7
+
+SAÍDA:
+Bem-vindo ao Konpeki Plaza
+Nome do usuário: Senha: Bem-vindo ao Hotel Konpeki Plaza, Ana. É um imenso prazer ter você por aqui!
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: 
+[Abastecimento]
+Wayne Oil
+Preço do álcool: Preço da gasolina: Stark Petrol
+Preço do álcool: Preço da gasolina: Ranking de custo dos quatro cenários (42 L):
+1. Wayne Oil | álcool | R$ 176,40
+2. Stark Petrol | álcool | R$ 182,70
+3. Wayne Oil | gasolina | R$ 244,44
+4. Stark Petrol | gasolina | R$ 259,14
+Opções ideais pela regra dos 70%, em ordem de custo:
+Wayne Oil: melhor opção = gasolina | Total (42L) = R$ 244,44
+Stark Petrol: melhor opção = gasolina | Total (42L) = R$ 259,14
+Ana, é mais barato abastecer com gasolina no posto Wayne Oil.
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: Muito obrigado e até logo, Ana.

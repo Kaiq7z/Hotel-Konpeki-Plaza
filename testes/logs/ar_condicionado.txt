@@ -1,0 +1,49 @@
+ENTRADA:
+Ana
+2678
+4
+Clima Forte
+120
+10
+8
+10
+150
+Outra
+150
+10
+0
+10
+0
+N
+7
+
+SAÍDA:
+Bem-vindo ao Konpeki Plaza
+Nome do usuário: Senha: Bem-vindo ao Hotel Konpeki Plaza, Ana. É um imenso prazer ter você por aqui!
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: 
+[Ar-Condicionado]
+Empresa: Valor por aparelho: Quantidade de aparelhos: Desconto (%): Quantidade mínima para desconto: Deslocamento: O serviço de Clima Forte custará R$ 1.254,00
+Informe pelo menos duas empresas para comparar.
+Empresa: Valor por aparelho: Quantidade de aparelhos: Desconto (%): Quantidade mínima para desconto: Deslocamento: O serviço de Outra custará R$ 1.500,00
+Deseja informar novos dados, Ana? (S/N): O orçamento de menor valor é o de Clima Forte por R$ 1.254,00
+Maior orçamento: Outra por R$ 1.500,00
+Diferença percentual em relação ao menor: 19,62%
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: Muito obrigado e até logo, Ana.

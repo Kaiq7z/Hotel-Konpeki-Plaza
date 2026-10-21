@@ -1,0 +1,36 @@
+ENTRADA:
+Ana
+2678
+3
+100
+sabado
+14
+2
+7
+
+SAÍDA:
+Bem-vindo ao Konpeki Plaza
+Nome do usuário: Senha: Bem-vindo ao Hotel Konpeki Plaza, Ana. É um imenso prazer ter você por aqui!
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: 
+[Eventos]
+Convidados: Auditório selecionado: Laranja (0 cadeiras adicionais)
+Dia da semana (sem acentos e em minúsculas, exemplo: segunda): Hora inicial: Duração (1-12 horas): Auditório indisponível nesse horário.
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: Muito obrigado e até logo, Ana.

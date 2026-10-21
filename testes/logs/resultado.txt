@@ -1,0 +1,1 @@
+16 testes de execução passaram. Consulte os arquivos com entradas e saídas.

@@ -1,0 +1,7 @@
+ENTRADA:
+Ana
+
+SAÍDA:
+Bem-vindo ao Konpeki Plaza
+Nome do usuário: Senha: 
+Entrada encerrada. Sistema finalizado.

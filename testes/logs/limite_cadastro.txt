@@ -1,0 +1,127 @@
+ENTRADA:
+Ana
+2678
+2
+1
+Hospede 1
+1
+Hospede 2
+1
+Hospede 3
+1
+Hospede 4
+1
+Hospede 5
+1
+Hospede 6
+1
+Hospede 7
+1
+Hospede 8
+1
+Hospede 9
+1
+Hospede 10
+1
+Hospede 11
+1
+Hospede 12
+1
+Hospede 13
+1
+Hospede 14
+1
+Hospede 15
+1
+7
+7
+
+SAÍDA:
+Bem-vindo ao Konpeki Plaza
+Nome do usuário: Senha: Bem-vindo ao Hotel Konpeki Plaza, Ana. É um imenso prazer ter você por aqui!
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: 
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: Nome do hóspede: Operação realizada com sucesso
+
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: Nome do hóspede: Operação realizada com sucesso
+
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: Nome do hóspede: Operação realizada com sucesso
+
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: Nome do hóspede: Operação realizada com sucesso
+
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: Nome do hóspede: Operação realizada com sucesso
+
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: Nome do hóspede: Operação realizada com sucesso
+
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: Nome do hóspede: Operação realizada com sucesso
+
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: Nome do hóspede: Operação realizada com sucesso
+
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: Nome do hóspede: Operação realizada com sucesso
+
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: Nome do hóspede: Operação realizada com sucesso
+
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: Nome do hóspede: Operação realizada com sucesso
+
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: Nome do hóspede: Operação realizada com sucesso
+
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: Nome do hóspede: Operação realizada com sucesso
+
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: Nome do hóspede: Operação realizada com sucesso
+
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: Nome do hóspede: Operação realizada com sucesso
+
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: Máximo de cadastros atingido
+
+[Cadastro de Hóspedes]
+1-Cadastrar 2-Pesquisar exato 3-Pesquisar prefixo 4-Listar 5-Atualizar 6-Remover 7-Voltar
+Opção: 
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: Muito obrigado e até logo, Ana.

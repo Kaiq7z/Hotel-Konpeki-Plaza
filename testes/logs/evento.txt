@@ -1,0 +1,71 @@
+ENTRADA:
+Ana
+2678
+3
+192
+segunda
+13
+8
+Empresa Teste
+S
+6
+7
+
+SAÍDA:
+Bem-vindo ao Konpeki Plaza
+Nome do usuário: Senha: Bem-vindo ao Hotel Konpeki Plaza, Ana. É um imenso prazer ter você por aqui!
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: 
+[Eventos]
+Convidados: Auditório selecionado: Laranja (42 cadeiras adicionais)
+Dia da semana (sem acentos e em minúsculas, exemplo: segunda): Hora inicial: Duração (1-12 horas): Empresa: 
+Relatório do evento
+Auditório: Laranja | Empresa: Empresa Teste
+Dia da semana: segunda | Início: 13h | Fim: 21h
+Convidados: 192 | Garçons: 20 | Duração: 8h
+Café: 38,40 L
+Água: 96,00 L
+Salgados: 1344 un
+Custo com garçons: R$ 1.680,00
+Custo buffet: R$ 526,08
+Total geral: R$ 2.206,08
+Confirmar reserva? (S/N): Auditório reservado para Empresa Teste: segunda às 13hs
+Reserva efetuada com sucesso.
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: 
+[Relatórios Operacionais - Konpeki Plaza]
+-----------------------------------------------------------
+Reservas de quartos confirmadas        |                  0
+Taxa de ocupação atual                 |              0,00%
+Hóspedes cadastrados                   |                  0
+Eventos confirmados                    |                  1
+Receita de hospedagem                  |            R$ 0,00
+Receita de eventos                     |        R$ 2.206,08
+Receita total                          |        R$ 2.206,08
+-----------------------------------------------------------
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: Muito obrigado e até logo, Ana.

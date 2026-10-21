@@ -1,0 +1,70 @@
+ENTRADA:
+Ana
+2678
+3
+221
+domingo
+7
+2
+Teste
+N
+6
+7
+
+SAÍDA:
+Bem-vindo ao Konpeki Plaza
+Nome do usuário: Senha: Bem-vindo ao Hotel Konpeki Plaza, Ana. É um imenso prazer ter você por aqui!
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: 
+[Eventos]
+Convidados: Auditório selecionado: Colorado (0 cadeiras adicionais)
+Dia da semana (sem acentos e em minúsculas, exemplo: segunda): Hora inicial: Duração (1-12 horas): Empresa: 
+Relatório do evento
+Auditório: Colorado | Empresa: Teste
+Dia da semana: domingo | Início: 7h | Fim: 9h
+Convidados: 221 | Garçons: 20 | Duração: 2h
+Café: 44,20 L
+Água: 110,50 L
+Salgados: 1547 un
+Custo com garçons: R$ 420,00
+Custo buffet: R$ 605,54
+Total geral: R$ 1.025,54
+Confirmar reserva? (S/N): Reserva não efetuada.
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: 
+[Relatórios Operacionais - Konpeki Plaza]
+-----------------------------------------------------------
+Reservas de quartos confirmadas        |                  0
+Taxa de ocupação atual                 |              0,00%
+Hóspedes cadastrados                   |                  0
+Eventos confirmados                    |                  0
+Receita de hospedagem                  |            R$ 0,00
+Receita de eventos                     |            R$ 0,00
+Receita total                          |            R$ 0,00
+-----------------------------------------------------------
+
+Konpeki Plaza
+1 - Reservas de Quartos
+2 - Cadastro de Hóspedes
+3 - Eventos
+4 - Ar-Condicionado
+5 - Abastecimento
+6 - Relatórios Operacionais
+7 - Sair
+Opção: Muito obrigado e até logo, Ana.
